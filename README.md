@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me comment under a Post of mine.
 
-<!---
-JoelS42/JoelS42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning by watching freeCodeCamp's YouTube guides on JavaScript,HTML and CSS. 
+Besides this - i also learning Solidity to become a web3/blockchain developer.
+
+My goal is to become a skilled web3/blockchain developer.
